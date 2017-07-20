@@ -1,0 +1,45 @@
+.my-head {
+  text-align: center
+}
+
+h1 {
+  font-style: italic;
+  font-family: serif;
+  font-size: 50px
+}
+
+
+p {
+  font-size: 20px
+  font-family: serif;
+  text-indent: 50px
+}
+
+.image {
+  float: left;
+  width: 50%
+}
+
+/*#bio {
+  text-align: center;
+  float: left;
+  width: 50%;
+}*/
+
+/*Couldn't get image to separate further from the text. Also, image was originally supposed to appear on left of text.*/
+
+.body1 {
+  text-align: center;
+  float: left;
+  width: 50%
+}
+
+/*.body2 {
+  float: right;
+  width: 50%
+}
+
+.body3 {
+  float: right;
+  width: 50%
+}*/
